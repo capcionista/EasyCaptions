@@ -4,7 +4,9 @@ https://github.com/pipwerks/EasyCaptions
 Copyright (c) Philip Hutchison
 MIT-style license: http://pipwerks.mit-license.org/
 --------------------------------------------------------------------*/
-
+/*would it be possible to make EasyCaptions work for audio only files (play audio and show captions/interactive transcript below? I would appreciate this so much!*/
+/*Another great feature would be to highlight automatically the corresponding parts in the transcript as the video/the audio plays. (Especially when the regular captions are hidden and only the transcript is shown.*/
+/*EasyCaptions is already awesome as it is now, thank you for this code! I would really appreciate if you could have a look at these two things."
 var EasyCaptions = function (options){
         
     /* Declare all variables */
